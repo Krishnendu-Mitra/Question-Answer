@@ -2,7 +2,14 @@
 This is for only docx or doc question paper set by krish
 
 
+---
+# Rule to assign id of a particular papper is -
 
+**``` Board-Class-Subject-Year-Type-No ```**
+
+where the syntax or id tables are following to create this id.
+
+---
 
 
 Every document is given a unique **ID** in the following format:
